@@ -29,6 +29,36 @@ El Programa se nos presenta de forma sensilla al abrir la vista.
 
 <div align="center">
   <a href="https://carlosorellana00.github.io/Cronometro/" rel="noopener">
-    <img src="docs/img/img.jpg" alt="icon" width="70%">
+    <img src="docs/img/img.jpg" alt="icon" width="50%">
   </a>  
 </div>
+Iniciamos dandole al botón play para empezar a correr el cronometro.
+<div align="center">
+  <a href="https://carlosorellana00.github.io/Cronometro/" rel="noopener">
+    <img src="docs/img/img1.jpg" alt="icon" width="50%">
+  </a>  
+</div>
+si queremos pausarlo solo debemos apretar el botón de pausa al centro del cronometro, deteniendo el tiempo.
+<div align="center">
+  <a href="https://carlosorellana00.github.io/Cronometro/" rel="noopener">
+    <img src="docs/img/img2.jpg" alt="icon" width="50%">
+  </a>  
+</div>
+si queremos reiniciar el cronometro solo debemos de apretar este botón que reiniciara la cuenta del cronometro
+<div align="center">
+  <a href="https://carlosorellana00.github.io/Cronometro/" rel="noopener">
+    <img src="docs/img/img3.jpg" alt="icon" width="50%">
+  </a>  
+</div>
+asi veremos como el contador vuelve a 0.
+<div align="center">
+  <a href="https://carlosorellana00.github.io/Cronometro/" rel="noopener">
+    <img src="docs/img/img4.jpg" alt="icon" width="50%">
+  </a>  
+</div>
+
+## Referencias:
+
+- [Autor -> Jeff Aporta](https://www.youtube.com/c/JeffAportaa)
+- [Video Original -> CRONÓMETRO EN JAVASCRIPT](https://www.youtube.com/watch?v=EkS5AIqednw&t=5s)
+- [Fondo de Pantalla -> svgbackgrounds](https://www.svgbackgrounds.com)
